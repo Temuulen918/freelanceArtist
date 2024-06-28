@@ -1,0 +1,16 @@
+{
+  "id": "mig_coaga04osp475jbhegug",
+  "parentID": "mig_coag9qcosp475jbhegtg",
+  "checksum": "1:1fd96aeb98fb207293b5610d7019638862783f74fb1100f45d58a871d1a33204",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "buteelchid",
+          "type": "multiple"
+        },
+        "table": "hamaaral"
+      }
+    }
+  ]
+}

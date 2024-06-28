@@ -1,0 +1,19 @@
+{
+  "id": "mig_coagat4osp475jbhegvg",
+  "parentID": "mig_coaga04osp475jbhegug",
+  "checksum": "1:752586a5f1fda6d3b406cfd8b4a59886c10a7313893a218eaf6a6cb86bc09002",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "dcsd",
+          "type": "link",
+          "link": {
+            "table": "buteelch"
+          }
+        },
+        "table": "hamaaral"
+      }
+    }
+  ]
+}

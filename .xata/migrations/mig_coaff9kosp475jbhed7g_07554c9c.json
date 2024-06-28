@@ -1,0 +1,16 @@
+{
+  "id": "mig_coaff9kosp475jbhed7g",
+  "parentID": "mig_coaff5nnv43stac47l70",
+  "checksum": "1:07554c9c15b4546a13ea4070e125694e041be6c4794476e7b788e4117548c8d3",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "turshlaga",
+          "type": "string"
+        },
+        "table": "CHUB"
+      }
+    }
+  ]
+}

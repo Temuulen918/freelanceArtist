@@ -1,0 +1,14 @@
+{
+  "id": "mig_coafpucosp475jbheg2g",
+  "parentID": "mig_coafprvnv43stac47ne0",
+  "checksum": "1:dc6980d55a9f7ec5a7a6355a58761e05096904c271aa56cb3ca1652cb2695ee4",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "turhayg",
+        "oldName": "turhaygeseh",
+        "table": "hayg"
+      }
+    }
+  ]
+}

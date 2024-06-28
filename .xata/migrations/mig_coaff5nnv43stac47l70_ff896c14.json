@@ -1,0 +1,16 @@
+{
+  "id": "mig_coaff5nnv43stac47l70",
+  "parentID": "mig_coafd6g8qt0jm63n7l2g",
+  "checksum": "1:ff896c142cae9e159b1b1207de5d6cf1dc74f1c85d29f6b51374443ea94c335c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "bolovsrol",
+          "type": "string"
+        },
+        "table": "CHUB"
+      }
+    }
+  ]
+}

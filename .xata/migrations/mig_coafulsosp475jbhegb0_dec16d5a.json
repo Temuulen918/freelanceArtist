@@ -1,0 +1,16 @@
+{
+  "id": "mig_coafulsosp475jbhegb0",
+  "parentID": "mig_coafujcosp475jbhega0",
+  "checksum": "1:dec16d5a8144805c4998c48696460227af6ae76f3341fc821f57ae190e715aa5",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "burtgeldugaal",
+          "type": "string"
+        },
+        "table": "holboo"
+      }
+    }
+  ]
+}

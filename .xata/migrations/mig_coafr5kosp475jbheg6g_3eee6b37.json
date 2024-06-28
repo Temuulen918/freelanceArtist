@@ -1,0 +1,16 @@
+{
+  "id": "mig_coafr5kosp475jbheg6g",
+  "parentID": "mig_coafquvnv43stac47ng0",
+  "checksum": "1:3eee6b37a1d25016a90047da3b29ea2e867f8b81af21ab935ae8226cf96e66ef",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "tuurvijduussan",
+          "type": "datetime"
+        },
+        "table": "buteel"
+      }
+    }
+  ]
+}

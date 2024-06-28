@@ -1,0 +1,17 @@
+{
+  "id": "mig_coag044osp475jbhegl0",
+  "parentID": "mig_coag01cosp475jbhegk0",
+  "checksum": "1:7959f27ef84671638749246b08020d181fc10953e6db420c473cfd43b5ad1d92",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "utas",
+          "type": "int",
+          "unique": true
+        },
+        "table": "holboo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_coafquvnv43stac47ng0",
+  "parentID": "mig_coafqs08qt0jm63n7o90",
+  "checksum": "1:ba223c808f056ac536c0458dafc7f6146fcd009f21ce52b51463d94f65e4ee6a",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "tailbar",
+          "type": "string"
+        },
+        "table": "buteel"
+      }
+    }
+  ]
+}

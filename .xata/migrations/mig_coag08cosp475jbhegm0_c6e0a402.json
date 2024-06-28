@@ -1,0 +1,13 @@
+{
+  "id": "mig_coag08cosp475jbhegm0",
+  "parentID": "mig_coag044osp475jbhegl0",
+  "checksum": "1:c6e0a40222ebe199546be8f9c7d7dccca51a05fdbbc938f02c9bf09cf95bc8ea",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "tsahimshuudan",
+        "table": "holboo"
+      }
+    }
+  ]
+}

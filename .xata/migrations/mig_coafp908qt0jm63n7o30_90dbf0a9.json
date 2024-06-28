@@ -1,0 +1,16 @@
+{
+  "id": "mig_coafp908qt0jm63n7o30",
+  "parentID": "mig_coafp5o8qt0jm63n7o20",
+  "checksum": "1:90dbf0a958834578504390d69f7cac881154387bbc3a5e10c9eb97d78f9bbfeb",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "password",
+          "type": "string"
+        },
+        "table": "hayg"
+      }
+    }
+  ]
+}

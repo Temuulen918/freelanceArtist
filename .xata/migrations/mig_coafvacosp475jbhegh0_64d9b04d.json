@@ -1,0 +1,16 @@
+{
+  "id": "mig_coafvacosp475jbhegh0",
+  "parentID": "mig_coafv7o8qt0jm63n7oc0",
+  "checksum": "1:64d9b04dd46ba602a00eb6628400eba7569afbf91110d49b3e27129ea8cec340",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "tsahimhayg",
+          "type": "string"
+        },
+        "table": "holboo"
+      }
+    }
+  ]
+}

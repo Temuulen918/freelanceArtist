@@ -1,0 +1,17 @@
+{
+  "id": "mig_coafff88qt0jm63n7lkg",
+  "parentID": "mig_coaff9kosp475jbhed7g",
+  "checksum": "1:712a48863656a48bef34275936c377c56e5dff2db2636eb8af95addbdfb9492f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "nasbarsaneseh",
+          "type": "bool",
+          "defaultValue": "false"
+        },
+        "table": "CHUB"
+      }
+    }
+  ]
+}

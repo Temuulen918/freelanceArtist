@@ -1,0 +1,16 @@
+{
+  "id": "mig_coafsgcosp475jbheg7g",
+  "parentID": "mig_coafrg08qt0jm63n7ob0",
+  "checksum": "1:c168f74d57670fe1d934a3d04c1e6d13393fe63ecbee229904a5eb76bfe23a58",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "file",
+          "type": "file"
+        },
+        "table": "buteel"
+      }
+    }
+  ]
+}

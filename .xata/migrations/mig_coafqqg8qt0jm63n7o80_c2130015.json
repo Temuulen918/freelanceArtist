@@ -1,0 +1,13 @@
+{
+  "id": "mig_coafqqg8qt0jm63n7o80",
+  "parentID": "mig_coafqmsosp475jbheg5g",
+  "checksum": "1:c213001506f8d3fea2b1dbaa97ec4995a22bd8a26b4d49e532153ea6d3136a8d",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "ner",
+        "table": "buteel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mig_coafd6g8qt0jm63n7l2g",
+  "parentID": "mig_coaf9d3pa7504nlt1ol0",
+  "checksum": "1:7ca1e442f6eb38a0fa38e9399e7b3e5bd64cb909bbfb799df90c38c9f99d51fe",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "dugaar",
+          "type": "int",
+          "unique": true
+        },
+        "table": "CHUB"
+      }
+    }
+  ]
+}

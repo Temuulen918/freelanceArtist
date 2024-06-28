@@ -1,0 +1,38 @@
+.sidebar {
+    width: 18rem;
+    border-right: 1px solid #ccc;
+    height: 91vh;
+    display: inline-grid;
+    background-color: white;
+  }
+  
+  .icon {
+    color: #6E89D8;
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    font-size: x-large;
+  }
+  
+  .sidebarContainer {
+    width: 17rem;
+    justify-items: center;
+  }
+  
+  .titles {
+    justify-items: center;
+  }
+  
+  .sidebarContainer ul li span {
+    font-size: 1.1rem;
+  }
+  
+  .sidebarContainer ul li {
+    margin-top: 0.5rem;
+  }
+  
+  .sidebarContainer nav {
+    text-align: center;
+    font-size: 1.1rem;
+  }
+

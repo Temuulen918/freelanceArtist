@@ -1,0 +1,16 @@
+{
+  "id": "mig_coafur4osp475jbhegd0",
+  "parentID": "mig_coafuo4osp475jbhegc0",
+  "checksum": "1:c1321a868fc777f39fa0c0dca0d37b87c9c28c77cce1809ac3f46421e1a03b7c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "TUZdarga",
+          "type": "string"
+        },
+        "table": "holboo"
+      }
+    }
+  ]
+}

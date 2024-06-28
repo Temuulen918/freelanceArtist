@@ -1,0 +1,17 @@
+{
+  "id": "mig_coafprvnv43stac47ne0",
+  "parentID": "mig_coafp908qt0jm63n7o30",
+  "checksum": "1:52f6c3a9ae3a4bb62fffbae4248b35f4fd000210dce5dfafd461c13a6470ed9a",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "turhaygeseh",
+          "type": "bool",
+          "defaultValue": "true"
+        },
+        "table": "hayg"
+      }
+    }
+  ]
+}

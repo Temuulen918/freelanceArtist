@@ -1,0 +1,17 @@
+{
+  "id": "mig_coag0co8qt0jm63n7oe0",
+  "parentID": "mig_coag08cosp475jbhegm0",
+  "checksum": "1:61f67df0c86d8dab338dc60f29ed31691f96b78d1dc811b4d48a9bc5de20183c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "tsahimshuudan",
+          "type": "email",
+          "unique": true
+        },
+        "table": "holboo"
+      }
+    }
+  ]
+}

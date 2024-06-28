@@ -1,0 +1,16 @@
+{
+  "id": "mig_coaf8ijpa7504nlt1o2g",
+  "parentID": "mig_coaf8bbbn5l1pu2m8ae0",
+  "checksum": "1:33e3e30bbe7d7229ab612ba84f86f2bfc70f9c9dbc798061d1fff6122f57b050",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "ovog",
+          "type": "string"
+        },
+        "table": "CHUB"
+      }
+    }
+  ]
+}

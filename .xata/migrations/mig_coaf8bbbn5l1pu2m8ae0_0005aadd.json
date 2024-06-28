@@ -1,0 +1,16 @@
+{
+  "id": "mig_coaf8bbbn5l1pu2m8ae0",
+  "parentID": "mig_coaf7vrpa7504nlt1nn0",
+  "checksum": "1:0005aadd3e2099de668574c153ca0c28bf67e7b5da4d1314ef9c1ba9d2bc2f05",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "ner",
+          "type": "string"
+        },
+        "table": "CHUB"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mig_coafop08qt0jm63n7o10",
+  "parentID": "mig_coafff88qt0jm63n7lkg",
+  "checksum": "1:88832bbf92c86d686e9c26d08349824824f30e99b4c8ad64c733ff7024f25d8f",
+  "operations": [
+    {
+      "addTable": {
+        "table": "hayg"
+      }
+    }
+  ]
+}

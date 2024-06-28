@@ -1,0 +1,14 @@
+{
+  "id": "mig_coafuo4osp475jbhegc0",
+  "parentID": "mig_coafulsosp475jbhegb0",
+  "checksum": "1:208c62c80d5d12ee55af00a835b3381c16858ed0ec90501df57604af57c1effd",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "burtgelDugaar",
+        "oldName": "burtgeldugaal",
+        "table": "holboo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mig_coafrag8qt0jm63n7oa0",
+  "parentID": "mig_coafr5kosp475jbheg6g",
+  "checksum": "1:bb5f8e9bcd0559f28eee6764c561aa812f288d4b05fcf453942cd52f673fac2b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "zohiogchiinerh",
+          "type": "int",
+          "unique": true
+        },
+        "table": "buteel"
+      }
+    }
+  ]
+}

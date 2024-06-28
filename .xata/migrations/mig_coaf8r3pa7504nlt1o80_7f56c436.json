@@ -1,0 +1,16 @@
+{
+  "id": "mig_coaf8r3pa7504nlt1o80",
+  "parentID": "mig_coaf8ijpa7504nlt1o2g",
+  "checksum": "1:7f56c4368fc7b147860708d209ad9e1b504fda08fdeaf7ee1a203b7c9645af7f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "tursunognoo",
+          "type": "datetime"
+        },
+        "table": "CHUB"
+      }
+    }
+  ]
+}

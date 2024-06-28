@@ -1,0 +1,17 @@
+{
+  "id": "mig_coafq488qt0jm63n7o40",
+  "parentID": "mig_coafpucosp475jbheg2g",
+  "checksum": "1:361717ab7b7bddd4eedd5af7a16e713e8fb7a57c8062c992f254cfa40eb57ae0",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "neesenognoo",
+          "type": "datetime",
+          "defaultValue": "now"
+        },
+        "table": "hayg"
+      }
+    }
+  ]
+}

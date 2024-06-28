@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Temuulen-Munkhtulga-s-workspace-eop6uq.us-east-1.xata.sh/db/myprogram",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

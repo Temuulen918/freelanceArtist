@@ -1,0 +1,13 @@
+{
+  "id": "mig_coafovcosp475jbheg1g",
+  "parentID": "mig_coafotkosp475jbheg0g",
+  "checksum": "1:f9b4688d0e3fd4a569108637050382d0e5eb4fe3c8e1efabc8cf4a1d35ec34dd",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "buteelch",
+        "oldName": "chub"
+      }
+    }
+  ]
+}

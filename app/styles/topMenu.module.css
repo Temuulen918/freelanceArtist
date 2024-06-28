@@ -1,0 +1,24 @@
+/* topMenu.module.css */
+
+.topMenu {
+    display: flex;
+    justify-content: flex-end; /* Align items to the right */
+    align-items: center; /* Center items vertically */
+    height: 4rem;
+    color: black;
+    border-bottom: 1px solid #ccc;
+    
+}
+
+.iconsContainer {
+    display: flex;
+    margin-right: 1rem;
+}
+
+.icon {
+    color: #6E89D8;
+    width: 30px;
+    height: 30px;
+    font-size: xx-large;
+    margin-left: 2rem; /* Add space between icons */
+}

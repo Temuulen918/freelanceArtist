@@ -1,0 +1,11 @@
+{
+  "id": "mig_coaf7i8blcv32663vs7g",
+  "checksum": "1:1813f3f900aa019a802d66eb10ec81d423be50e72c07fb3d29e73791838f2dd5",
+  "operations": [
+    {
+      "addTable": {
+        "table": "CHUB"
+      }
+    }
+  ]
+}

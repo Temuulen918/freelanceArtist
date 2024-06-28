@@ -1,0 +1,12 @@
+{
+  "id": "mig_coafugkosp475jbheg90",
+  "parentID": "mig_coafsgcosp475jbheg7g",
+  "checksum": "1:d40bfa396d3e4b21d5887fee61b5d76dba10ce20e3abad0b79122cc8f732bd79",
+  "operations": [
+    {
+      "addTable": {
+        "table": "holboo"
+      }
+    }
+  ]
+}

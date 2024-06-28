@@ -1,0 +1,12 @@
+{
+  "id": "mig_coag9qcosp475jbhegtg",
+  "parentID": "mig_coag0co8qt0jm63n7oe0",
+  "checksum": "1:7112472073053ed814f8d8dc6e2fa17f4f32868cb81320badc314f55a59ead44",
+  "operations": [
+    {
+      "addTable": {
+        "table": "hamaaral"
+      }
+    }
+  ]
+}

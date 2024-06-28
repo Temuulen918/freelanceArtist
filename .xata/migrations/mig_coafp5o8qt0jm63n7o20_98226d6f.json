@@ -1,0 +1,17 @@
+{
+  "id": "mig_coafp5o8qt0jm63n7o20",
+  "parentID": "mig_coafovcosp475jbheg1g",
+  "checksum": "1:98226d6f1351ad2e04b9728396016f5023105ac4714a0ae933f70471a2b298aa",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "username",
+          "type": "email",
+          "unique": true
+        },
+        "table": "hayg"
+      }
+    }
+  ]
+}

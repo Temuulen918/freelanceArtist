@@ -1,0 +1,17 @@
+{
+  "id": "mig_coaf7vrpa7504nlt1nn0",
+  "parentID": "mig_coaf7i8blcv32663vs7g",
+  "checksum": "1:bd939115472beb72b5599eae4babeed1ea0c8aeea0d9144a04cb4f983b44983b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "RD",
+          "type": "string",
+          "unique": true
+        },
+        "table": "CHUB"
+      }
+    }
+  ]
+}

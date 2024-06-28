@@ -1,0 +1,86 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+}
+body {
+  background-color: white;
+}
+
+.required{
+  color: red;
+}
+
+.mytextarea{
+  width: 22.5rem;
+
+}
+
+.myform{
+  display: inline-grid;
+  overflow-y: scroll;
+  max-height: 91vh;
+  width:  74rem
+}
+
+.mycontent{
+  display: inline-grid;
+  overflow-y: scroll;
+  max-height: 91vh;
+  width:  74rem
+}
+
+.form-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-buttons{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.form-buttons *{
+  margin: 1rem;
+}
+
+.x-button{
+  height: 2rem;
+}
+
+table *{
+  font-size: small;
+}
+
+input:read-only {
+  color: gray; 
+  background-color: #f4f4f4; 
+  border: 1px solid lightgray; 
+  cursor: not-allowed;
+}
+
+.blue-button{
+  background-color: #6E89D8;
+}
+
+.white-button{
+  background-color: white;
+  border: 1px solid #6E89D8;
+}
+
+.modified-input{
+  background-color: red;
+}
+

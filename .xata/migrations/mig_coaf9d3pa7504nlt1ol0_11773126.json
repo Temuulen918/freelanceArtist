@@ -1,0 +1,18 @@
+{
+  "id": "mig_coaf9d3pa7504nlt1ol0",
+  "parentID": "mig_coaf8r3pa7504nlt1o80",
+  "checksum": "1:11773126ed4d34fdc7eb1c81b2855fb73bb87e062b6900f4f1097c668ed68a99",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "huis",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "er"
+        },
+        "table": "CHUB"
+      }
+    }
+  ]
+}

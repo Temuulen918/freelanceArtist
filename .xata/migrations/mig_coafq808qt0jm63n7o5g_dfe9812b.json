@@ -1,0 +1,12 @@
+{
+  "id": "mig_coafq808qt0jm63n7o5g",
+  "parentID": "mig_coafq488qt0jm63n7o40",
+  "checksum": "1:dfe9812b8ad0997206f4830cb85e15d1012144c737fa4fee3a42ca77e5f446b9",
+  "operations": [
+    {
+      "addTable": {
+        "table": "buteel"
+      }
+    }
+  ]
+}
